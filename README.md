@@ -62,9 +62,15 @@ network_logs, bruteforce_logs, linux_logs
  - Add a time picker for dynamic filtering
    
 <img width="1280" height="720" alt="Screenshot from 2025-08-27 20-52-20" src="https://github.com/user-attachments/assets/4849784a-e71f-4013-a2ec-55ef2dbe1bf9" />
-<img width="1280" height="720" alt="Screenshot from 2025-08-27 20-52-20" src="https://github.com/user-attachments/assets/2b9277b2-7549-4c54-829f-9ca19412dbf4" />
-<img width="1280" height="720" alt="Screenshot from 2025-08-27 20-52-20" src="https://github.com/user-attachments/assets/fdfcd36a-abf0-4d71-9b85-d662e4a58f8b" />
-<img width="1280" height="720" alt="Screenshot from 2025-08-27 20-52-20" src="https://github.com/user-attachments/assets/18dda5c5-8faf-44f9-b0b1-79795049fa1f" />
+
+<img width="1280" height="720" alt="Screenshot from 2025-08-27 20-52-53" src="https://github.com/user-attachments/assets/8998416b-4c02-4c6d-9ec1-ab58563ca403" />
+
+<img width="1858" height="776" alt="Screenshot from 2025-08-27 21-13-21" src="https://github.com/user-attachments/assets/31782cfe-304b-4b3b-80d9-1656657009da" />
+
+<img width="1851" height="778" alt="Screenshot from 2025-08-27 21-36-46" src="https://github.com/user-attachments/assets/4224a6c4-1ad5-43d5-9ae4-d8c79e46303c" />
+
+
+
 
 
 
