@@ -1,6 +1,7 @@
 # Security_Dashboard_Splunk
 Built a unified security dashboard in Splunk for network, Linux, and brute-force logs. Configured forwarders, created indexes, and set up daily reports and a real-time dashboard for monitoring events by protocol, severity, and type.
-###What did I do ?
+
+### What did I do ?
 - Forwarded logs from endpoints:
   - Suricata (eve.json, fast.log) → Network events
   - /var/log/auth.log → Brute-force login attempts
@@ -19,7 +20,7 @@ Built a unified security dashboard in Splunk for network, Linux, and brute-force
 
 The result: A real-time, unified security overview that’s easy to monitor and extend.
 
-###How to Configure This From Scratch
+### How to Configure This From Scratch
 1. Install Splunk Universal Forwarder on your machine:
 
     wget -O splunkforwarder.tgz 'https://www.splunk.com/...'
