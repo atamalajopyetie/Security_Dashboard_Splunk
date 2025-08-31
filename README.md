@@ -1,7 +1,7 @@
 # SOC_HomeLab
 Built a unified security dashboard in Splunk for network, Linux, and brute-force logs. Configured forwarders, created indexes, and set up daily reports and a real-time dashboard for monitoring events by protocol, severity, and type.
 
-<img width="3240" height="1184" alt="image" src="https://github.com/user-attachments/assets/943cc2b5-5151-4ab4-ab28-382d9e1151a8" />
+<img width="3400" height="1520" alt="image" src="https://github.com/user-attachments/assets/4d5498f5-975d-4915-a3d0-fb03912b7860" />
 
 ### What did I do ?
 - Forwarded logs from endpoints:
